@@ -1,11 +1,11 @@
 pandas
-numpy
+numpy<2.0.0
 matplotlib
 seaborn
 holidays
 statsmodels
 lightgbm
-prophet
+prophet==1.1.5
 scikit-learn
 joblib
 tensorflow-cpu
