@@ -8,6 +8,5 @@ lightgbm
 prophet
 scikit-learn
 joblib
-tensorflow
-streamlit
+tensorflow-cpu
 pyarrow
